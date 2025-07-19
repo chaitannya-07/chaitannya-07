@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaitannya-07
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in Artificial Intelligence and Data Science 
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
